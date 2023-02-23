@@ -1,4 +1,4 @@
-# ML_PROECT
+# Machine Learning Project at coder's ready 
 
 ###Steps of Project
 
